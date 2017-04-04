@@ -21,6 +21,7 @@
     <string name="nav_info">Info</string>
     <string name="directed_by">Directed by</string>
     <string name="cast">Cast</string>
+    <string name="search_hint">Search…</string>
 
     <string-array name="movie_filter_array">
         <item>Popular</item>
